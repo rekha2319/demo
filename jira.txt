@@ -1,0 +1,4 @@
+Hi 
+this is jira rest api
+attaching a file to the comment
+the file is under the project itself
